@@ -70,8 +70,6 @@ hydro
 
 geo and space
  * https://github.com/meteostat/meteostat-python
-
-
  * https://github.com/ResidentMario/geoplot
  * https://github.com/cgre-aachen/gempy
  * https://github.com/domlysz/BlenderGIS
